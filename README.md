@@ -1,8 +1,8 @@
 # Double Bass Fingering Ruby Gem
 
-The Double Bass Fingering Ruby Gem is a tool designed for bassists who want to maximize the efficiency of their fingering positions when playing the double bass. This gem provides automatic calculation of the best fingering positions based on a given set of notes.
+<img src="https://github.com/jcagarcia/bass-auto-fingering/blob/master/docs/imgs/img.png?raw=true" width="250">
 
-![image](docs/imgs/img.png)
+The Double Bass Fingering Ruby Gem is a tool designed for bassists who want to maximize the efficiency of their fingering positions when playing the double bass. This gem provides automatic calculation of the best fingering positions based on a given set of notes.
 
 ## Features
 
